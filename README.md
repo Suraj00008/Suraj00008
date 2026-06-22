@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Suraj Yadav 👋
 
-<!--
-**Suraj00008/Suraj00008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Data Science) Student
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst passionate about transforming data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on:
+- LinkedIn Job Trend Analysis
+- Data Analytics projects using Python and Power BI
+
+🌱 Currently learning:
+- Advanced SQL
+- Machine Learning
+- Data Visualization
+
+🛠️ Tech Stack:
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Matplotlib
+- Git & GitHub
+
+📌 Featured Projects:
+
+- LinkedIn Job Trend Analysis
+- Power BI Dashboard Projects
+- SQL Data Analysis Projects
+
+📫 Connect with me:
+
+- LinkedIn: www.linkedin.com/in/suraj-yadav-754b44296
+- Email: surajyadav202004@gmail.com
